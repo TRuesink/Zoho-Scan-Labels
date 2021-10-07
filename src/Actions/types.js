@@ -1,0 +1,13 @@
+export const GET_BATCH = "GET_BATCH";
+export const GET_BATCH_PENDING = "GET_BATCH_PENDING";
+export const GET_BATCH_ERROR = "GET_BATCH_ERROR";
+
+export const GET_VIALS = "GET_VIALS";
+export const UPDATE_VIAL = "UPDATE_VIAL";
+export const GET_VIALS_PENDING = "GET_VIALS_PENDING";
+export const GET_VIALS_ERROR = "GET_VIALS_ERROR";
+
+export const GET_HOLDER = "GET_HOLDER";
+export const GET_HOLDER_PENDING = "GET_HOLDER_PENDING";
+export const GET_HOLDER_ERROR = "GET_HOLDER_ERROR";
+export const CLEAR_HOLDER = "CLEAR_HOLDER";
